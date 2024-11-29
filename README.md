@@ -34,7 +34,7 @@ Este projeto foi desenvolvido durante o Bootcampo DIO Microsoft IA 102. O objeti
      CONTAINER_NAME=<your_container_name>
      ```
 
-### Executando o Projeto
+### Executando
 
 1. Inicie o aplicativo Streamlit:
    ```bash
