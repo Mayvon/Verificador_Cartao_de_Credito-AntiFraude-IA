@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido durante o Bootcampo DIO Microsoft IA 102. O objetivo é construir uma aplicação capaz de realizar upload de arquivos de imagem (PNG, JPG, JPEG) para o Azure Blob Storage, processar os documentos utilizando a API do Azure Document Intelligence para análise de cartões de crédito e exibir as informações extraídas na interface.
 
+<img src="/assets/animated.gif">
+
 ## Funcionalidades
 
 - **Upload de Arquivos**: O usuário pode fazer o upload de arquivos de imagem diretamente pela interface.
